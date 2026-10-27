@@ -1,5 +1,3 @@
-# ReHand VR
-
 **Hands vs. Controllers in Upper-Limb Rehabilitation** — a Meta Quest 2 VR app that runs the same upper-limb rehabilitation exercises once with bare hands (hand tracking) and once with controllers, in counterbalanced order, and compares accuracy, movement smoothness, repetitions, SUS score and user preference.
 
 📄 **State of the Art document:** [Upper-limb rehab - State of The Art](https://docs.google.com/document/d/1BBVZG78lDgmgTwESydYuQSKIa57uikb0M7RVBRZt4mA/edit?usp=sharing)
